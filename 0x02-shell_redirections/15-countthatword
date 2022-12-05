@@ -1,0 +1,2 @@
+#!/bin/bash
+egref -C "bin" /etc/passwd
